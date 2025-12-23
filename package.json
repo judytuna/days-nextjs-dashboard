@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "build": "next build",
-    "dev": "next dev -- --turbopack --port 3297",
+    "dev": "next dev --turbopack --port 3297",
     "start": "next start -p 3297 -H 127.0.0.1"
   },
   "dependencies": {
